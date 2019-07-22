@@ -1,0 +1,7 @@
+C:\Users\benja\Desktop\samsung\ALG_BSQ\Bsq\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\benja\Desktop\samsung\ALG_BSQ\Bsq\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\benja\Desktop\samsung\ALG_BSQ\Bsq\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\benja\Desktop\samsung\ALG_BSQ\Bsq\ConsoleApp1\obj\Debug\Bsq.csprojAssemblyReference.cache
+C:\Users\benja\Desktop\samsung\ALG_BSQ\Bsq\ConsoleApp1\obj\Debug\Bsq.csproj.CoreCompileInputs.cache
+C:\Users\benja\Desktop\samsung\ALG_BSQ\Bsq\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\benja\Desktop\samsung\ALG_BSQ\Bsq\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
